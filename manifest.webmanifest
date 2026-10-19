@@ -1,0 +1,22 @@
+{
+ "name": "西门子题库练习软件",
+ "short_name": "西门子题库",
+ "description": "西门子题库练习软件（WinCC/实战营/PLC 阶段一二三），离线可用",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#0f2b5c",
+ "theme_color": "#0f2b5c",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
